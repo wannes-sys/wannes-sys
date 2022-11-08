@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wannes
+- 👋 Hi, I’m Wannes
 - 👀 I’m interested in coding, electronics, music, physics and more
 - 🌱 I’m currently learning electronics
 - 💞️ I’m looking to collaborate on nothing yet
